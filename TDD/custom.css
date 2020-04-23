@@ -1,0 +1,11 @@
+.reveal pre {
+  font-size: 0.6em;
+}
+
+.reveal pre code {
+  overflow: visible;
+}
+
+h1.title {
+  font-size: 2.3em;
+}
