@@ -9,7 +9,7 @@ djangorestframework==3.11.0
 djangorestframework-simplejwt==4.4.0
 entrypoints==0.3
 flake8==3.7.9
-httpie==2.0.0
+httpie==3.1.0
 idna==2.9
 ipython==7.13.0
 ipython-genutils==0.2.0
